@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+.header {
+    background-color: #ff6347;
+}
+
+.home {
+    background-color: dodgerblue;
+}
+
+.footer {
+    background-color: #939697;
+}
