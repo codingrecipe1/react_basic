@@ -17,6 +17,12 @@
     height: 200px;
 }
 
+.page {
+    background-color: dodgerblue;
+    height: 200px;
+    color: white;
+}
+
 .footer {
     background-color: #939697;
 }
